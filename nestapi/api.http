@@ -1,0 +1,1 @@
+GET http://localhost:300/places?text=av governador valadares, betin, 1000
